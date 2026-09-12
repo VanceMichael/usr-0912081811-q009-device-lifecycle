@@ -1,0 +1,9 @@
+{
+  "event_id": "event-return-001",
+  "idempotency_key": "partner-a:0001",
+  "device_id": "device-10086",
+  "device_version": 7,
+  "source": "partner-a",
+  "type": "returned",
+  "occurred_at": "2026-09-12T11:30:00+08:00"
+}
